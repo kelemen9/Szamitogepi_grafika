@@ -4,7 +4,7 @@
 
 A projekt egy interaktív, oldalnézetes játék, amelyben egy fánk objektumot kell irányítani egy vízszintes, sütemény- és cukorkatextúrájú pályán. A játékosnak el kell kerülnie az akadályokat (pl. fagyikat), mivel ha nekiütközik, a játék véget ér - megjelenik egy Game Over felirat. 
 
-A kamera egérrel szabadon mozgatható, követi a fánk haladását. A fényerő állítható, a fánk színe módosítható, valamint árnyékot vet a talajra. A háttérben cukorkaeső hullik, a pályán pedig köd jelenik meg, amelynek sűrűsége billentyűzettel szabályozható. Az F1 gomb megnyomásával előhívható egy használati útmutató.
+A kamera egérrel szabadon mozgatható, követi a fánk haladását. A fényerő állítható, a fánk árnyékot vet a talajra. A háttérben cukorkaeső hullik, a pályán pedig köd jelenik meg, amelynek sűrűsége billentyűzettel szabályozható. Az F1 gomb megnyomásával előhívható egy használati útmutató.
 
 ---
 ## **Funkciók**
