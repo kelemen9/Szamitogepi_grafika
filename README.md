@@ -1,6 +1,6 @@
-# ** 🎀 Számítógépi Grafika - Féléves Feladat 🎀 **
+#  🎀 Számítógépi Grafika - Féléves Feladat 🎀 
 
-## ** 🍩 A feladat leírása 🍦 **
+## 🍩 A feladat leírása 🍦 
 
 A projekt egy interaktív, oldalnézetes játék, amelyben egy fánk objektumot kell irányítani egy vízszintes, sütemény- és cukorkatextúrájú pályán. A játékosnak el kell kerülnie az akadályokat (pl. fagyikat), mivel ha nekiütközik, a játék véget ér - megjelenik egy Game Over felirat. 
 
