@@ -1,6 +1,8 @@
-#  🎀 Számítógépi Grafika - Féléves Feladat 🎀 
+#   Számítógépi Grafika - Féléves Feladat 
 
-## 🍩 A feladat leírása 🍦 
+## 🍩 A feladat leírása 🍦
+
+A feladat ugyanaz, mint a korábbi félévben.
 
 A projekt egy interaktív, oldalnézetes játék, amelyben egy fánk objektumot kell irányítani egy vízszintes, sütemény- és cukorkatextúrájú pályán. A játékosnak el kell kerülnie az akadályokat (pl. fagyikat), mivel ha nekiütközik, a játék véget ér - megjelenik egy Game Over felirat. 
 
@@ -11,26 +13,26 @@ A kamera egérrel szabadon mozgatható, követi a fánk haladását. A fényerő
 
 ### **Alapvető elemek**
 
- **Textúrázott modellek** (fánk és pálya cukorkás/süteményes textúrával) 🍭
+ **Textúrázott modellek** (fánk és pálya cukorkás/süteményes textúrával) 
 
- **Kamerakezelés** (egérrel szabadon mozgatható, követi a fánk mozgását) 🎥
+ **Kamerakezelés** (egérrel szabadon mozgatható, követi a fánk mozgását) 
 
- **Mozgás és animáció** (a fánk gurul és billentyűzettel irányítható) 🏃‍♀️
+ **Mozgás és animáció** (a fánk gurul és billentyűzettel irányítható) 
 
- **Fénykezelés** (a világítás erőssége állítható)🌟
+ **Fénykezelés** (a világítás erőssége állítható)
 
- **Használati útmutató** (F1 megnyomásával megjelenik) 📖
+ **Használati útmutató** (F1 megnyomásával megjelenik) 
 
- **Ütközésvizsgálat** (a fánk nem hagyhatja el a pályát, akadállyal való ütközés esetén a játék véget ér ❌)
+ **Ütközésvizsgálat** (a fánk nem hagyhatja el a pályát, akadállyal való ütközés esetén a játék véget ér)
 
- **Skybox használata** (háttér varázslatos térbeli környezetet ad) 🌈
+ **Skybox használata** (háttér varázslatos térbeli környezetet ad) 
 
- **Textúrázott pálya** (sütemény/cukorka mintázatú talaj) 🍩
+ **Textúrázott pálya** (sütemény/cukorka mintázatú talaj)
 
 ### **Többletfunkciók**
-- ⭐ **Részecskeeffektek** (cukorkaeső, köd)
-- ⭐ **Köd sűrűségének állítása** (billentyűzettel csökkenthető/növelhető)
-- ⭐ **Fánk árnyéka** (a talajon látható)
+-  **Részecskeeffektek** (cukorkaeső, köd)
+-  **Köd sűrűségének állítása** (billentyűzettel csökkenthető/növelhető)
+-  **Fánk árnyéka** (a talajon látható)
 
 ---
 ## **Billentyűkombinációk**
