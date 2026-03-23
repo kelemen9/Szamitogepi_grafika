@@ -10,32 +10,21 @@ A kamera egérrel szabadon mozgatható, követi a fánk haladását. A fényerő
 ## **Funkciók**
 
 ### **Alapvető elemek**
+-  **Textúrázott modellek** (fánk és pálya cukorkás/süteményes textúrával) 
 
- **Textúrázott modellek** (fánk és pálya cukorkás/süteményes textúrával) 
+- **Kamerakezelés** (egérrel szabadon mozgatható követi a fánk mozgását)
 
- **Kamerakezelés** 
-- egérrel szabadon mozgatható
--  követi a fánk mozgását
+- **Mozgás és animáció** (a fánk gurul és billentyűzettel irányítható)
 
- **Mozgás és animáció** 
-- a fánk gurul és billentyűzettel irányítható
-- **<** - Balra
-- **>** - Jobbra
-- **^** - Fel
+- **Fénykezelés** (a világítás erőssége állítható)
 
- **Fénykezelés** (a világítás erőssége állítható)
+- **Használati útmutató**  
 
- **Használati útmutató**  
- - **F1** - Használati útmutató a megnyomásával megjelenik
+- **Ütközésvizsgálat**  (a fánk nem hagyhatja el a pályát, akadállyal való ütközés esetén a játék véget ér)
 
- **Ütközésvizsgálat** 
- - a fánk nem hagyhatja el a pályát, akadállyal való ütközés esetén a játék véget ér
+- **Skybox használata** (háttér varázslatos térbeli környezetet ad)
 
- **Skybox használata** 
- - háttér varázslatos térbeli környezetet ad
-
- **Textúrázott pálya** 
- - sütemény/cukorka mintázatú talaj
+- **Textúrázott pálya** (sütemény/cukorka mintázatú talaj)
 
 ### **Többletfunkciók**
 -  **Részecskeeffektek** (cukorkaeső, köd)
